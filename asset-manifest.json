@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.js": "/res-ui-inbox/static/js/main.b3b07522.chunk.js",
-    "main.js.map": "/res-ui-inbox/static/js/main.b3b07522.chunk.js.map",
-    "runtime-main.js": "/res-ui-inbox/static/js/runtime-main.829e1ce4.js",
-    "runtime-main.js.map": "/res-ui-inbox/static/js/runtime-main.829e1ce4.js.map",
-    "static/css/2.ae62de25.chunk.css": "/res-ui-inbox/static/css/2.ae62de25.chunk.css",
-    "static/js/2.8c4220ed.chunk.js": "/res-ui-inbox/static/js/2.8c4220ed.chunk.js",
-    "static/js/2.8c4220ed.chunk.js.map": "/res-ui-inbox/static/js/2.8c4220ed.chunk.js.map",
-    "index.html": "/res-ui-inbox/index.html",
-    "precache-manifest.d24a562b98d094bb135bbb3ed479092d.js": "/res-ui-inbox/precache-manifest.d24a562b98d094bb135bbb3ed479092d.js",
-    "service-worker.js": "/res-ui-inbox/service-worker.js",
-    "static/css/2.ae62de25.chunk.css.map": "/res-ui-inbox/static/css/2.ae62de25.chunk.css.map",
-    "static/js/2.8c4220ed.chunk.js.LICENSE": "/res-ui-inbox/static/js/2.8c4220ed.chunk.js.LICENSE",
-    "static/media/font-awesome.css": "/res-ui-inbox/static/media/fontawesome-webfont.fee66e71.woff",
-    "static/media/index.css": "/res-ui-inbox/static/media/roboto-latin-900italic.ebf6d164.woff2"
+    "main.js": "/u-inb/static/js/main.249dcaa5.chunk.js",
+    "main.js.map": "/u-inb/static/js/main.249dcaa5.chunk.js.map",
+    "runtime-main.js": "/u-inb/static/js/runtime-main.e239afd7.js",
+    "runtime-main.js.map": "/u-inb/static/js/runtime-main.e239afd7.js.map",
+    "static/css/2.ecf6e1a3.chunk.css": "/u-inb/static/css/2.ecf6e1a3.chunk.css",
+    "static/js/2.379b7075.chunk.js": "/u-inb/static/js/2.379b7075.chunk.js",
+    "static/js/2.379b7075.chunk.js.map": "/u-inb/static/js/2.379b7075.chunk.js.map",
+    "index.html": "/u-inb/index.html",
+    "precache-manifest.74de3f4cd40d67247a1da62cb006d45e.js": "/u-inb/precache-manifest.74de3f4cd40d67247a1da62cb006d45e.js",
+    "service-worker.js": "/u-inb/service-worker.js",
+    "static/css/2.ecf6e1a3.chunk.css.map": "/u-inb/static/css/2.ecf6e1a3.chunk.css.map",
+    "static/js/2.379b7075.chunk.js.LICENSE": "/u-inb/static/js/2.379b7075.chunk.js.LICENSE",
+    "static/media/font-awesome.css": "/u-inb/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/index.css": "/u-inb/static/media/roboto-latin-900italic.ebf6d164.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.829e1ce4.js",
-    "static/css/2.ae62de25.chunk.css",
-    "static/js/2.8c4220ed.chunk.js",
-    "static/js/main.b3b07522.chunk.js"
+    "static/js/runtime-main.e239afd7.js",
+    "static/css/2.ecf6e1a3.chunk.css",
+    "static/js/2.379b7075.chunk.js",
+    "static/js/main.249dcaa5.chunk.js"
   ]
 }
